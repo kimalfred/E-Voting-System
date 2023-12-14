@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "DheBkqDEzn7VxLNTpH48qrsMpbX5CatZwk3443qUEd7muAVisSnvlZu/uYIfgCzmkQZC1SclMoAxVy3ODDP5LQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kim Alfred\\source\\repos\\VotingSystem2\\VotingSystem2\\VotingSystem2.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\syncfusion.chart.base\\23.1.43\\syncfusion.chart.base.23.1.43.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\syncfusion.chart.windows\\23.1.43\\syncfusion.chart.windows.23.1.43.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\syncfusion.grouping.base\\23.1.43\\syncfusion.grouping.base.23.1.43.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\syncfusion.licensing\\23.1.43\\syncfusion.licensing.23.1.43.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\syncfusion.shared.base\\23.1.43\\syncfusion.shared.base.23.1.43.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kim Alfred\\.nuget\\packages\\winforms.datavisualization\\1.9.1\\winforms.datavisualization.1.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

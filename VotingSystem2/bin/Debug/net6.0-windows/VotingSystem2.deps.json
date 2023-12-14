@@ -1,0 +1,396 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VotingSystem2/1.0.0": {
+        "dependencies": {
+          "FontAwesome.Sharp": "6.3.0",
+          "Guna.UI2.WinForms": "2.0.4.5",
+          "Syncfusion.Chart.Windows": "23.1.43",
+          "System.Data.OleDb": "7.0.0",
+          "WinForms.DataVisualization": "1.9.1"
+        },
+        "runtime": {
+          "VotingSystem2.dll": {}
+        }
+      },
+      "FontAwesome.Sharp/6.3.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/FontAwesome.Sharp.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "Guna.UI2.WinForms/2.0.4.5": {
+        "dependencies": {
+          "System.Management": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Guna.UI2.dll": {
+            "assemblyVersion": "2.0.4.5",
+            "fileVersion": "2.0.4.5"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/7.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "Syncfusion.Chart.Base/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Licensing": "23.1.43",
+          "Syncfusion.Shared.Base": "23.1.43"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Chart.Base.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Chart.Windows/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Chart.Base": "23.1.43",
+          "Syncfusion.Grouping.Base": "23.1.43",
+          "Syncfusion.Licensing": "23.1.43",
+          "Syncfusion.Shared.Base": "23.1.43"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Chart.Windows.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Grouping.Base/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Licensing": "23.1.43",
+          "Syncfusion.Shared.Base": "23.1.43"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Grouping.Base.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/23.1.43": {
+        "runtime": {
+          "lib/net6.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.Base/23.1.43": {
+        "dependencies": {
+          "Syncfusion.Licensing": "23.1.43"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/Syncfusion.Shared.Base.dll": {
+            "assemblyVersion": "23.1.43.0",
+            "fileVersion": "23.1.43.0"
+          }
+        }
+      },
+      "System.CodeDom/6.0.0": {},
+      "System.Configuration.ConfigurationManager/7.0.0": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "7.0.0",
+          "System.Security.Permissions": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Data.OleDb/7.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "7.0.0",
+          "System.Diagnostics.PerformanceCounter": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Data.OleDb.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/7.0.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.PerformanceCounter.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Management/6.0.0": {
+        "dependencies": {
+          "System.CodeDom": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Management.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/7.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Security.Permissions/7.0.0": {
+        "dependencies": {
+          "System.Windows.Extensions": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Security.Permissions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "System.Windows.Extensions/7.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Windows.Extensions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Windows.Extensions.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "WinForms.DataVisualization/1.9.1": {
+        "runtime": {
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.9.1.0"
+          },
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.9.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VotingSystem2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FontAwesome.Sharp/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3/Fb0N04yYK8An07oox5ISlUyNgsnWildHfoP69uqTEOsemQemRyciphMkXZOcdBupjUD+lVsRE3FqG41/dzPA==",
+      "path": "fontawesome.sharp/6.3.0",
+      "hashPath": "fontawesome.sharp.6.3.0.nupkg.sha512"
+    },
+    "Guna.UI2.WinForms/2.0.4.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lR50db4NzBC0QLAr27q9nrpYsIfWKjOgGnROrPi8AxbwLFE3nTup6ZOpVE/vbrr86eLV//8ys9sIW7j0ix2h+Q==",
+      "path": "guna.ui2.winforms/2.0.4.5",
+      "hashPath": "guna.ui2.winforms.2.0.4.5.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2nXPrhdAyAzir0gLl8Yy8S5Mnm/uBSQQA7jEsILOS1MTyS7DbmV1NgViMtvV1sfCD1ebITpNwb1NIinKeJgUVQ==",
+      "path": "microsoft.win32.systemevents/7.0.0",
+      "hashPath": "microsoft.win32.systemevents.7.0.0.nupkg.sha512"
+    },
+    "Syncfusion.Chart.Base/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zh7J9ugMFTUjyXckkJ6S1SgvPFs8plEa1F8jJMijpgUmx1HAI3tJDpPyPT5JbLb8tUKxMyAADDFR2bGXgkZULA==",
+      "path": "syncfusion.chart.base/23.1.43",
+      "hashPath": "syncfusion.chart.base.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Chart.Windows/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wNBUNsB1MbOoV/GSc9pOKq6XTnqmt/9BDfx5FztrKGUEJ+3L0+Tdr3z7JrVhdTEbToULrgcQePQ3fFAxgs4L9w==",
+      "path": "syncfusion.chart.windows/23.1.43",
+      "hashPath": "syncfusion.chart.windows.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Grouping.Base/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xwY59A6Rg9O7fLmZuHP53sMiY8kuKq/HlQ6w7BsDWwy9QOJe65C36RWgq8iiK0Pp186hOx8giyxFaeDNJt8LTg==",
+      "path": "syncfusion.grouping.base/23.1.43",
+      "hashPath": "syncfusion.grouping.base.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ys9pmuOmgAhxwbmTI99p2bP3bd60BNshze/mQRHKDofPUY5ac9Wte+NseUwqqG8IFHI/Kdv4YI5+bMFAozR/+A==",
+      "path": "syncfusion.licensing/23.1.43",
+      "hashPath": "syncfusion.licensing.23.1.43.nupkg.sha512"
+    },
+    "Syncfusion.Shared.Base/23.1.43": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gQcoAtxkL71AIwa2fjKKek3n9V7Y6m7mfg45V1vS2zilFYvPwOgCq/QX5fovQ+3b9YZLMRYza/QeiyN8x78z8w==",
+      "path": "syncfusion.shared.base/23.1.43",
+      "hashPath": "syncfusion.shared.base.23.1.43.nupkg.sha512"
+    },
+    "System.CodeDom/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CPc6tWO1LAer3IzfZufDBRL+UZQcj5uS207NHALQzP84Vp/z6wF0Aa0YZImOQY8iStY0A2zI/e3ihKNPfUm8XA==",
+      "path": "system.codedom/6.0.0",
+      "hashPath": "system.codedom.6.0.0.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WvRUdlL1lB0dTRZSs5XcQOd5q9MYNk90GkbmRmiCvRHThWiojkpGqWdmEDJdXyHbxG/BhE5hmVbMfRLXW9FJVA==",
+      "path": "system.configuration.configurationmanager/7.0.0",
+      "hashPath": "system.configuration.configurationmanager.7.0.0.nupkg.sha512"
+    },
+    "System.Data.OleDb/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bhAs+5X5acgg3zQ6N4HqxqfwwmqWJzgt54BC8iwygcqa2jktxDFzxwN83GNvqgoTcTs2tenDS/jmhC+AQsmcyg==",
+      "path": "system.data.oledb/7.0.0",
+      "hashPath": "system.data.oledb.7.0.0.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L+zIMEaXp1vA4wZk1KLMpk6tvU0xy94R0IfmhkmTWeC4KwShsmAfbg5I19LgjsCTYp6GVdXZ2aHluVWL0QqBdA==",
+      "path": "system.diagnostics.performancecounter/7.0.0",
+      "hashPath": "system.diagnostics.performancecounter.7.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KIX+oBU38pxkKPxvLcLfIkOV5Ien8ReN78wro7OF5/erwcmortzeFx+iBswlh2Vz6gVne0khocQudGwaO1Ey6A==",
+      "path": "system.drawing.common/7.0.0",
+      "hashPath": "system.drawing.common.7.0.0.nupkg.sha512"
+    },
+    "System.Management/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sHsESYMmPDhQuOC66h6AEOs/XowzKsbT9srMbX71TCXP58hkpn1BqBjdmKj1+DCA/WlBETX1K5WjQHwmV0Txrg==",
+      "path": "system.management/6.0.0",
+      "hashPath": "system.management.6.0.0.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xSPiLNlHT6wAHtugASbKAJwV5GVqQK351crnILAucUioFqqieDN79evO1rku1ckt/GfjIn+b17UaSskoY03JuA==",
+      "path": "system.security.cryptography.protecteddata/7.0.0",
+      "hashPath": "system.security.cryptography.protecteddata.7.0.0.nupkg.sha512"
+    },
+    "System.Security.Permissions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vmp0iRmCEno9BWiskOW5pxJ3d9n+jUqKxvX4GhLwFhnQaySZmBN2FuC0N5gjFHgyFMUjC5sfIJ8KZfoJwkcMmA==",
+      "path": "system.security.permissions/7.0.0",
+      "hashPath": "system.security.permissions.7.0.0.nupkg.sha512"
+    },
+    "System.Windows.Extensions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
+      "path": "system.windows.extensions/7.0.0",
+      "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "WinForms.DataVisualization/1.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/mKuUVwHYg0EpcjJbuvU5eGY8QGFB4iUMVEl0inHE5iF1fG/NK1dRR2sL26QDnv1wG0dnpuhE3jO5ktKQlvEGg==",
+      "path": "winforms.datavisualization/1.9.1",
+      "hashPath": "winforms.datavisualization.1.9.1.nupkg.sha512"
+    }
+  }
+}

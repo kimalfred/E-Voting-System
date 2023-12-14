@@ -1,0 +1,118 @@
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.exe
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.deps.json
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.runtimeconfig.json
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.pdb
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.AssemblyReference.cache
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Form1.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.GenerateResource.cache
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.AssemblyInfoInputs.cache
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.AssemblyInfo.vb
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.CoreCompileInputs.cache
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.CopyComplete
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\refint\VotingSystem2.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.pdb
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.genruntimeconfig.cache
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\ref\VotingSystem2.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.admin.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Resources.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.studentpanel.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.CandidateInfo.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Partylist.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vote.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.AdminPanel.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Candidate.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Party.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.StudentList.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.voteResults.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Chart.Base.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Chart.Windows.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Grouping.Base.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Shared.Base.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Dashboard.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.addStudent.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.startelec.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.exe
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.deps.json
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.runtimeconfig.json
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\VotingSystem2.pdb
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Chart.Base.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Chart.Windows.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Grouping.Base.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\Syncfusion.Shared.Base.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.AssemblyReference.cache
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.addStudent.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.admin.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.AdminPanel.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Candidate.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.CandidateInfo.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Dashboard.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Form1.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Resources.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Party.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Partylist.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.startelec.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.StudentList.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.studentpanel.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vote.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.voteResults.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.GenerateResource.cache
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.AssemblyInfoInputs.cache
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.AssemblyInfo.vb
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.CoreCompileInputs.cache
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.vbproj.CopyComplete
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\refint\VotingSystem2.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.pdb
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.genruntimeconfig.cache
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\ref\VotingSystem2.dll
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.recript.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.Receipt.resources
+C:\Users\ken\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.ReciptForm.resources
+C:\Users\Kim Alfred\source\repos\VotingSystem2\VotingSystem2\obj\Debug\net6.0-windows\VotingSystem2.ReciptForm.resources
